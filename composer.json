@@ -1,0 +1,7 @@
+{
+    "require": {
+        "erusev/parsedown": "^1.7",
+        "intervention/image": "^3.5",
+        "aws/aws-sdk-php": "^3.301"
+    }
+}
